@@ -8,5 +8,6 @@ namespace charles_proj.Repository
 {
     class JobOrder_Repository
     {
+        string _hello = "kilala mo ba ako?";
     }
 }
