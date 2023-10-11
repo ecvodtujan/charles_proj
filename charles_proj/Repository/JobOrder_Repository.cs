@@ -20,9 +20,14 @@ namespace charles_proj.Repository
                 _hello = "Pinakaguwapong lalaki sa balat ng lupa";
 
             }
-            else
+            else if (_kiko == 1)
             {
                 _hello = "bukbok;";
+            }
+
+            else
+            {
+                _hello = "alient na pogi";
             }
         }
     }
