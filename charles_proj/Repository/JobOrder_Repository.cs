@@ -27,7 +27,7 @@ namespace charles_proj.Repository
 
             else
             {
-                _hello = "alient na pogi";
+                _hello = "alien na vampire";
             }
         }
     }
