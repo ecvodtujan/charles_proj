@@ -11,5 +11,19 @@ namespace charles_proj.Repository
         string _test_2 = "";
         int _empid = 0;
         string _hello = "kilala mo ba ako?";
+        int _kiko = 0;
+
+        void DisplayRecord()
+        {
+            if (_kiko == 0)
+            {
+                _hello = "Pinakaguwapong lalaki sa balat ng lupa";
+
+            }
+            else
+            {
+                _hello = "bukbok;";
+            }
+        }
     }
 }
