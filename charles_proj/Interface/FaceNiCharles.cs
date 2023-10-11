@@ -8,5 +8,8 @@ namespace charles_proj.Interface
 {
     interface FaceNiCharles
     {
+        //check only 
+
+       // int _empid = 0;
     }
 }
