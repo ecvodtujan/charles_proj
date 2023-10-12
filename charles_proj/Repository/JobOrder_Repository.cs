@@ -35,6 +35,7 @@ namespace charles_proj.Repository
         void Abunda()
         {
             string test = "";
+            int _alien = 0;
         }
     }
 }
